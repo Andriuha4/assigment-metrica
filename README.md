@@ -1,4 +1,5 @@
           # assigment-metrica
+          
           LOC(lines of code) pentru proiectul complet :134
 
 
@@ -8,8 +9,10 @@
 
 
                                         RAPORT  ANALIZA STATICA
+                                        
 
          Fisierul Calculator.java: 
+         
 
                          linia de cod (4) - add a private constructor to hide the implicit public one
 
